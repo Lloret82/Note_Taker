@@ -10,6 +10,7 @@ body {
 
 ::placeholder{
   color: black;
+  font-size: 0.5em;
 }
 .save-note {
   display: none;
